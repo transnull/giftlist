@@ -4,6 +4,8 @@
 <img src="https://img.shields.io/badge/Vue-3-4FC08D?style=flat-square&logo=vuedotjs" alt="Vue 3">
 <img src="https://img.shields.io/badge/SQLite-embedded-003B57?style=flat-square&logo=sqlite" alt="SQLite">
 <img src="https://img.shields.io/docker/pulls/transnull/giftlist?style=flat-square&logo=docker" alt="Docker Pulls">
+<img src="https://img.shields.io/docker/image-size/transnull/giftlist/latest?style=flat-square&logo=docker&label=image%20size" alt="Docker Image Size">
+<img src="https://img.shields.io/github/actions/workflow/status/transnull/giftlist/docker-publish.yml?style=flat-square&logo=github-actions&label=CI%2FCD" alt="CI/CD">
 <img src="https://img.shields.io/github/license/transnull/giftlist?style=flat-square" alt="License">
 
 # 🎁 Gift Wishlist

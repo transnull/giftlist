@@ -37,5 +37,5 @@ frontend/dist/
 .DS_Store
 Thumbs.db
 
-# Temp
-_compile.bat
+# Temp scripts
+_*.bat
