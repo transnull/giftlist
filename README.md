@@ -16,6 +16,8 @@
 
 [Docker 部署](#-docker-部署推荐) · [本地构建](#️-本地构建) · [截图预览](#-截图预览) · [API 文档](#-api-文档)
 
+**示例网站**：[礼物愿望清单](https://giftlist.transnull.cn)
+
 </div>
 
 ---
@@ -101,10 +103,20 @@ docker pull transnull/giftlist:latest && docker restart giftlist
 ---
 
 ## 🖼️ 截图预览
+### PC 端
+[![peV75N9.png](https://s41.ax1x.com/2026/03/16/peV75N9.png)](https://imgchr.com/i/peV75N9)
 
-| 公开首页 | 礼物详情 | 后台管理 |
-|---------|---------|---------|
-| 礼物卡片网格，响应式布局 | 大图 + 购买链接 | 物品增删改查 + 配置编辑 |
+[![peV7bjK.png](https://s41.ax1x.com/2026/03/16/peV7bjK.png)](https://imgchr.com/i/peV7bjK)
+
+[![peV7xNd.png](https://s41.ax1x.com/2026/03/16/peV7xNd.png)](https://imgchr.com/i/peV7xNd)
+
+### 移动端
+
+[![peVHZNj.png](https://s41.ax1x.com/2026/03/16/peVHZNj.png)](https://imgchr.com/i/peVHZNj)
+
+[![peVHVEQ.png](https://s41.ax1x.com/2026/03/16/peVHVEQ.png)](https://imgchr.com/i/peVHVEQ)
+
+[![peVHAHg.png](https://s41.ax1x.com/2026/03/16/peVHAHg.png)](https://imgchr.com/i/peVHAHg)
 
 ---
 
