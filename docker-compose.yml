@@ -1,0 +1,19 @@
+version: "3.9"
+
+services:
+  giftlist:
+    image: transnull/giftlist:latest
+    container_name: giftlist
+    restart: unless-stopped
+    ports:
+      - "${PORT:-8080}:8080"
+    volumes:
+      - giftlist_data:/data
+    environment:
+      - ADMIN_PASSWORD=${ADMIN_PASSWORD:-admin123}
+      - SESSION_SECRET=${SESSION_SECRET:-}
+      - DB_PATH=/data/giftlist.db
+
+volumes:
+  giftlist_data:
+    driver: local

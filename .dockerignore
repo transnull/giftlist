@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+
+# Build artifacts (will be rebuilt inside Docker)
+static/
+
+# Go build cache
+*.exe
+*.test
+
+# Database
+*.db
+*.db-shm
+*.db-wal
+
+# Git
+.git/
+.gitignore
+
+# IDE
+.vscode/
+.idea/
+
+# Temp scripts
+_compile.bat
